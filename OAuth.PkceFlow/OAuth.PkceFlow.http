@@ -1,0 +1,6 @@
+@OAuth.PkceFlow_HostAddress = http://localhost:5271
+
+GET {{OAuth.PkceFlow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
